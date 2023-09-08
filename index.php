@@ -95,7 +95,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Développé par Leandro Dickmann
+        Développé par Leandro Dickmann &copy; <?= date('Y'); ?>
     </footer>
 </body>
 </html>
