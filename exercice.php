@@ -8,13 +8,18 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bebas+Neue&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style_exercice.css">
     <title>Exercice - Cours PHP</title>
 </head>
-<body>
+<body class="exercicio">
     <header class="cabecalho">
         <h1>Cours PHP</h1>
         <h2>Visualisation des Exercices</h2>
     </header>
+    <nav class="navegacao">
+        <a href="#" class="verde">Sans Style</a>
+        <a href="index.php" class="vermelho">Retourner</a>
+    </nav>
     <main class="principal">
         <div class="conteudo">
         
